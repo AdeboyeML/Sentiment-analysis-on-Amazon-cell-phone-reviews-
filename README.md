@@ -6,6 +6,8 @@ This project is aimed towards using different linear classifiers such as Logisti
 
 The dataset can be found on [kaggle](https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews)
 
+## ROC_AUC Score was utilized as the evaluation metric for this classification problem simply because it tells us how well our models/calssifiers performed on distinguishing the data into their respective classes irrespective of whether the dataset is imbalanced.
+
 ## Tasks
 
 - Data Exploration
